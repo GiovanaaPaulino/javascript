@@ -1,0 +1,1 @@
+document.getElementById("texto").innerHTML="Meu primeiro tetxo <b>JS</b>!";
